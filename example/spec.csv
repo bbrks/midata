@@ -1,0 +1,8 @@
+Date,Type,Merchant/Description,Debit/Credit,Balance
+04/03/2014,VIS,Boots the Chemist,5.00,260.00
+04/03/2014,DD,Fitness First,-50.00,255.00
+03/03/2014,ATM,ATM withdrawal,-100.00,305.00
+03/03/2014,TRF,etc.,-20.00,405.00
+02/03/2014,VIS,etc.,-75.00,425.00
+01/03/2014,CSH,etc.,-50.00,500.00
+Arranged overdraft limit,04/03/2014,1000.00
