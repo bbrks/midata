@@ -1,4 +1,4 @@
-# midata [![Build Status](https://travis-ci.org/bbrks/midata.svg)](https://travis-ci.org/bbrks/midata) [![Go Report Card](https://goreportcard.com/badge/github.com/bbrks/midata)](https://goreportcard.com/report/github.com/bbrks/midata) [![GoDoc](https://godoc.org/github.com/bbrks/midata?status.svg)](https://godoc.org/github.com/bbrks/midata)
+# midata [![Build Status](https://travis-ci.org/bbrks/midata.svg)](https://travis-ci.org/bbrks/midata) [![GoDoc](https://godoc.org/github.com/bbrks/midata?status.svg)](https://godoc.org/github.com/bbrks/midata) [![Go Report Card](https://goreportcard.com/badge/github.com/bbrks/midata)](https://goreportcard.com/report/github.com/bbrks/midata) [![GitHub tag](https://img.shields.io/github/tag/bbrks/midata.svg)](https://github.com/bbrks/midata/releases) [![license](https://img.shields.io/github/license/bbrks/midata.svg)](https://github.com/bbrks/midata/blob/master/LICENSE)
 
 A simple midata library for Go (golang)
 
